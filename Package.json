@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Waqas1225/bypass/issues"
+		"url": "https://github.com/Waqas1225/fb-bot/issues"
 	},
 	"keywords": [
 		"bot",
@@ -25,9 +25,9 @@
 	"author": "𝐒𝐚𝐧𝐝𝐡𝐲𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/Waqas1225/bypass/issues"
+		"url": "https://github.com/Waqas1225/fb-bot/issues"
 	},
-	"homepage": "https://github.com/Waqas1225/bypass/issues",
+	"homepage": "https://github.com/Waqas1225/fb-bot/issues",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
